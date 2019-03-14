@@ -32,7 +32,7 @@ namespace TelegramBot_1
 
         public Bot()
         {
-            botClient = new TelegramBotClient("642735712:AAGcpj60RooFCsBFnrQX-kdTAbv1magWHW8");
+            botClient = new TelegramBotClient("put here bot token");
         }
 
         internal async void Login()
